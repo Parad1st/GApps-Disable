@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
 
-        <activity-Hueten
+        <activity-alias
             android:name=".MainActivityHueten"
             android:icon="@mipmap/ic_launcher_2"
             android:roundIcon="@mipmap/ic_launcher_2_round"
@@ -37,7 +37,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
 
-        </activity-Hueten>
+        </activity-alias>
     </application>
 
 </manifest>

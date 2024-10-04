@@ -1,8 +1,14 @@
 # GApps Disable
-GApps Disable is a simple utility for disabling and enabling Google applications in 1 click. The application is so simple that it does not even have an interface.
+GApps Disable is a simple utility that lets you disable and enable OpenAI apps in one click. The app is so simple that it doesn’t even have an interface.
+
 # Requirements
-Root 
-# Why do you need to disable GApps?
-- Free up background activity
+Root
+
+# How to use?
+Simply tap the app icon and wait for GApps to be disabled.
+
+# Why disable GApps?
+- Disable background activity
 - Improve battery life
-- Data received by Google will not fly to the darknet
+- Higher FPS in games
+- Data collected by OpenAI will not be leaked to the dark web

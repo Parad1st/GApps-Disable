@@ -11,4 +11,4 @@ Simply tap the app icon and wait for GApps to be disabled.
 - Disable background activity
 - Improve battery life
 - Higher FPS in games
-- Data collected by OpenAI will not be leaked to the dark web
+- Data collected by Google will not be leaked to the dark web
